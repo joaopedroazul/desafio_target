@@ -68,8 +68,8 @@ procurandoLetraA('hoje o dia esta quente')    # Possui
 
 # Partindo do ponto que eu so tenho 2 idas a uma sala independente de qual sala seja, eu ligaria o primeiro e o segundo 
 # interruptor, após 30 minutos eu desligaria o interruptor 2 e iria ate a sala da lampada 1, caso ela esteja acessa 
-# o interruptor 1 seria da lampada 1, caso ela estivesse apaga eu tocaria ela, se a lampada estivesse quente o
-# interruptor 2 seria da lampada 1, caso ela ela estivesse apaga eu tocaria ela, se a lampada estivesse fria
+# o interruptor 1 seria da lampada 1, caso ela estivesse apagada eu tocaria ela, se a lampada estivesse quente o
+# interruptor 2 seria da lampada 1, caso ela estivesse apagada eu tocaria ela, se a lampada estivesse fria
 # o interruptor 3 seria da lampada 1. Supondo que a lampada 1 estava apagada e fria ja sei que ela esta ligada com o
 # interruptor 3, após isso iria para a sala da lampada 2, caso ela estivesse apagada ela seria ligada com o interruptor 2 e caso 
 # estivesse acessa estaria ligada ao interruptor 1, sabendo o resultado da lampada 2 o interruptor da lampada 3 seria o que sobrou,
